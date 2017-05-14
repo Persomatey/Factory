@@ -1,0 +1,62 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GitHub\Fall2016\ExeGame\Factory_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 3520x1200 at -1600,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.881690 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7528 -> priority: 1 
+  Thread -> id: 876c -> priority: 1 
+  Thread -> id: 7c30 -> priority: 1 
+  Thread -> id: 7510 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.744950 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 10266.
+Total: 1.449897 ms (FindLiveObjects: 0.330091 ms CreateObjectMapping: 0.111903 ms MarkObjects: 0.637699 ms  DeleteObjects: 0.369947 ms)
+
+Name: Default  Class: Default Level: 1 Health: 100 Melee: True Speed: 12.5  Exp: 0
+has been created
+Radius7
+Radius7
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+Firing: 29/30 : 300
+Dropping item #1 RandomNum=0.7938633 1.587727 drops#2
+Spawner Triggered
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Firing: 29/30 : 281
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.235506 ms
+
+Unloading 656 unused Assets to reduce memory usage. Loaded Objects now: 2118.
+Total: 4.353524 ms (FindLiveObjects: 0.096574 ms CreateObjectMapping: 0.065660 ms MarkObjects: 0.192382 ms  DeleteObjects: 3.998651 ms)
+
