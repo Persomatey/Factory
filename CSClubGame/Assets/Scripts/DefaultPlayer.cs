@@ -40,7 +40,7 @@ public class DefaultPlayer : Player
         this.playerLevel    = 1;
         this.health         = 100;//making the game a little easier
         this.BASE_HEALTH    = health;
-        this.speed          = 12.5f;
+        this.speed          = 100f;
         this.experience     = 0;
         this.anim           = GetComponent<Animator>();
         this.alive          = true;

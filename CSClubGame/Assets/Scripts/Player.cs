@@ -76,7 +76,7 @@ public class Player : MonoBehaviour
         this.playerLevel    = 1;
         this.health         = 40;
         this.BASE_HEALTH    = health;
-        this.speed          = 10f;
+        this.speed          = 100f;
         this.experience     = 0;
         this.anim           = GetComponent<Animator>();
         this.alive          = true;
@@ -92,10 +92,9 @@ public class Player : MonoBehaviour
     public virtual void Movement()
     {
         //Inputs
+        MoveRotation();
+        MovePos();
 		
-		MovePos();
-		
-		MoveRotation();
         //Vector3 mousePos = Camera.main.ScreenPointToRay(Input.mousePosition).origin;
         //float moveHorizontal = Input.GetAxis("Horizontal");
         //float moveVertical = Input.GetAxis("Vertical");
@@ -123,10 +122,10 @@ public class Player : MonoBehaviour
 
         //Player movement
         Vector3 movement = new Vector3(moveHorizontal, moveVertical, 0f);
-        //movement.Normalize();
-        //PlayerRB2D.AddForce(movement * speed);
+        movement.Normalize();
+        PlayerRB2D.AddForce(movement * speed);
 		
-		PlayerRB2D.MovePosition(transform.position + (movement * Time.deltaTime * speed));
+		//PlayerRB2D.MovePosition(transform.position + (movement * Time.deltaTime * speed));
 	}
 	
 	public void MoveRotation()
@@ -135,9 +134,12 @@ public class Player : MonoBehaviour
 		Vector3 mousePos = Camera.main.ScreenPointToRay(Input.mousePosition).origin;
         float z = Mathf.Atan2(((mousePos.y) - transform.position.y), ((mousePos.x) - transform.position.x)) * Mathf.Rad2Deg - 90f;
         if(z != 0f && z != 180f)
+        {
             transform.eulerAngles = new Vector3(0, 0, z);
-        //transform.eulerAngles = Vector3.Lerp(transform.eulerAngles, new Vector3(0, 0, z), 10.0f);
-        //Vector3 rotationLerp = new Vector3(0, 0, z);
+            //transform.eulerAngles = Vector3.Lerp(transform.eulerAngles, new Vector3(0, 0, z), 10.0f);
+            //Vector3 rotationLerp = new Vector3(0, 0, z);
+        }
+            
 
 
         PlayerRB2D.angularVelocity = 0;
