@@ -7,9 +7,25 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: Assets/Done/DoneScenes/DoneStealth.unity
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/_Scenes/ZombieWave.unity
+    guid: f4ac40270229da14386cf05037b6bc7b
   - enabled: 1
     path: Assets/_Scenes/MainMenu.unity
+    guid: 1df1815283ec347cd9474c3a0a932d4e
   - enabled: 1
     path: Assets/_Scenes/Factory.unity
+    guid: 9ad98b754d3d1e54b8eb3e1cea595c47
+  - enabled: 0
+    path: 
+    guid: 84f38b5b7f257d34289ed7e55669dded
+  - enabled: 1
+    path: Assets/_Scenes/HunterDeathScene.unity
+    guid: f49a26cb6347ed447b6e515fe343f9ec
+  - enabled: 1
+    path: Assets/_Scenes/HunterWinScene.unity
+    guid: 3369c97e28fe02849b15f7054c0e4f1e
+  - enabled: 1
+    path: Assets/_Scenes/HunterControlScreen.unity
+    guid: d134dee304adb954abc0b0dcb6171b22

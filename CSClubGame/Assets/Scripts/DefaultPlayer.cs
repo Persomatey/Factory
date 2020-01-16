@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class DefaultPlayer : Player
 {
     public Transform shotSpawn;
-
+    public GameObject loseSFX; 
 
     SubMachineGun rangedAttack;
 
@@ -28,6 +29,17 @@ public class DefaultPlayer : Player
     void LateUpdate()
     {
         rangedAttack.LateUpdate();
+        if(health <= 0)
+        {
+            StartCoroutine(DeathSequence()); 
+        }
+    }
+
+    IEnumerator DeathSequence()
+    {
+        loseSFX.SetActive(true);
+        yield return new WaitForSeconds(4);
+        SceneManager.LoadScene("HunterDeathScene");
     }
 
     void LoadDate()

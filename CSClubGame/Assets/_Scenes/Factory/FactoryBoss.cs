@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;//health slider
+using UnityEngine.SceneManagement;
 
 public class FactoryBoss : Enemy
 {
@@ -31,6 +32,11 @@ public class FactoryBoss : Enemy
 	public Slider slider;
 	public Image fillImage;
 
+    public GameObject winSFX;
+    public AudioSource winComp;
+
+    public int HP; 
+
     void Start()
     {
         ConfigEnemy("Drone Boss", 1, true, setrange, setsight, 10, sethealth, 5, setdamage, setfireRate, 5);
@@ -42,14 +48,21 @@ public class FactoryBoss : Enemy
         this.sightLine = 20;
         convertGObj2Vector3();
 		SetHealthUI();
+        winSFX = GameObject.Find("WinSFXObj");
+        winComp = winSFX.GetComponent<AudioSource>(); 
     }
 
     void Update()
     {
+        HP = health;
+
+        if (HP <= 2)
+        {
+            winSFX.GetComponent<Win>().ToggleBool(); 
+        }
+
         Attack(getPlayerInRange());
-
     }
-
 
     public override void Move()
     {

@@ -1,0 +1,1202 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1616
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.352 seconds
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Hunter Goodin\Documents\GitHub\Fall2016\CSClubGame\Game\Factory_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.551100 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4f98 -> priority: 1 
+  Thread -> id: 35a8 -> priority: 1 
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.530500 ms
+
+Unloading 495 unused Assets to reduce memory usage. Loaded Objects now: 364.
+Total: 2.867900 ms (FindLiveObjects: 0.060200 ms CreateObjectMapping: 0.067300 ms MarkObjects: 0.219000 ms  DeleteObjects: 2.520400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.655400 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2125.
+Total: 1.060700 ms (FindLiveObjects: 0.143200 ms CreateObjectMapping: 0.096300 ms MarkObjects: 0.369900 ms  DeleteObjects: 0.450000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.826300 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 10278.
+Total: 3.710800 ms (FindLiveObjects: 0.696600 ms CreateObjectMapping: 0.379100 ms MarkObjects: 1.407900 ms  DeleteObjects: 1.226100 ms)
+
+Name: Default  Class: Default Level: 1 Health: 100 Melee: True Speed: 100  Exp: 0
+has been created
+Radius7
+Enemy Sight is null
+Firing: 29/30 : 300
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+Firing: 28/30 : 300
+Dropping item #1 RandomNum=0.5810121 1.162024 drops#2
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+5 dmg taken. Started at 100 and now at 50 Percent rem:0.5
+5 dmg taken. Started at 100 and now at 45 Percent rem:0.45
+5 dmg taken. Started at 100 and now at 40 Percent rem:0.4
+5 dmg taken. Started at 100 and now at 35 Percent rem:0.35
+5 dmg taken. Started at 100 and now at 30 Percent rem:0.3
+5 dmg taken. Started at 100 and now at 25 Percent rem:0.25
+5 dmg taken. Started at 100 and now at 20 Percent rem:0.2
+5 dmg taken. Started at 100 and now at 15 Percent rem:0.15
+5 dmg taken. Started at 100 and now at 10 Percent rem:0.1
+5 dmg taken. Started at 100 and now at 5 Percent rem:0.05
+5 dmg taken. Started at 100 and now at 0 Percent rem:0
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.199100 ms
+
+Unloading 379 unused Assets to reduce memory usage. Loaded Objects now: 3614.
+Total: 8.380700 ms (FindLiveObjects: 0.362400 ms CreateObjectMapping: 0.273900 ms MarkObjects: 0.679300 ms  DeleteObjects: 7.063900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.150500 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 2130.
+Total: 4.669100 ms (FindLiveObjects: 0.175100 ms CreateObjectMapping: 0.141500 ms MarkObjects: 0.611600 ms  DeleteObjects: 3.739800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.788800 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 10278.
+Total: 2.884700 ms (FindLiveObjects: 0.590600 ms CreateObjectMapping: 0.199600 ms MarkObjects: 1.273800 ms  DeleteObjects: 0.819600 ms)
+
+Name: Default  Class: Default Level: 1 Health: 100 Melee: True Speed: 100  Exp: 0
+has been created
+Radius7
+Enemy Sight is null
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+Firing: 29/30 : 300
+Dropping item #0 RandomNum=0.08364857 0.1672971 drops#2
+Spawner Triggered
+Radius7
+Radius7
+Radius7
+Radius7
+Radius7
+Spawner Triggered
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Spawner Triggered
+Radius7
+Radius7
+Radius7
+Radius7
+Radius7
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+Spawner Triggered
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Firing: 29/30 : 300
+Dropping item #0 RandomNum=0.3581928 0.7163857 drops#2
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+Firing: 29/30 : 275
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+Spawner Triggered
+Enemy Sight is null
+Enemy Sight is null
+Enemy Sight is null
+Spawner Triggered
+Radius7
+Radius7
+Radius7
+Radius7
+5 dmg taken. Started at 100 and now at 50 Percent rem:0.5
+5 dmg taken. Started at 100 and now at 45 Percent rem:0.45
+5 dmg taken. Started at 100 and now at 40 Percent rem:0.4
+Firing: 29/30 : 245
+Dropping item #0 RandomNum=0.494003 0.988006 drops#2
+5 dmg taken. Started at 100 and now at 35 Percent rem:0.35
+5 dmg taken. Started at 100 and now at 30 Percent rem:0.3
+5 dmg taken. Started at 100 and now at 25 Percent rem:0.25
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+Dropping item #1 RandomNum=0.554465 1.10893 drops#2
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+Dropping item #1 RandomNum=0.6695327 1.339065 drops#2
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+Dropping item #1 RandomNum=0.5455438 1.091088 drops#2
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+Firing: 29/30 : 245
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+Dropping item #1 RandomNum=0.7021735 1.404347 drops#2
+Dropping item #1 RandomNum=0.5289795 1.057959 drops#2
+Firing: 29/30 : 246
+Dropping item #0 RandomNum=0.1817485 0.363497 drops#2
+Firing: 29/30 : 216
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+Dropping item #0 RandomNum=0.2926407 0.5852814 drops#2
+Spawner Triggered
+Radius20
+Getting waypoint @ (113.0, 132.2, -5.4)
+Getting waypoint @ (113.0, 144.8, -5.4)
+Getting waypoint @ (113.0, 157.1, -5.4)
+Getting waypoint @ (125.5, 132.2, -5.4)
+Getting waypoint @ (125.5, 144.6, -5.4)
+Getting waypoint @ (125.4, 157.2, -5.4)
+Getting waypoint @ (138.0, 132.1, -5.4)
+Getting waypoint @ (137.9, 144.7, -5.4)
+Getting waypoint @ (137.9, 157.2, -5.4)
+Radius0.2
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+Firing: 29/30 : 400
+Boss Health: 498
+Boss Health: 496
+Boss Health: 494
+Boss Health: 492
+Boss Health: 490
+Boss Health: 488
+Boss Health: 486
+Boss Health: 484
+Boss Health: 482
+Boss Health: 480
+Boss Health: 478
+Boss Health: 476
+Boss Health: 474
+Boss Health: 472
+Boss Health: 470
+Boss Health: 468
+Boss Health: 466
+Boss Health: 464
+Boss Health: 462
+Boss Health: 460
+Boss Health: 458
+Boss Health: 456
+Boss Health: 454
+Boss Health: 452
+Boss Health: 450
+Boss Health: 448
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+Firing: 29/30 : 370
+Boss Health: 446
+Boss Health: 444
+Boss Health: 442
+Boss Health: 440
+Boss Health: 438
+Boss Health: 436
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+Boss Health: 434
+Boss Health: 432
+Boss Health: 430
+Boss Health: 428
+Boss Health: 426
+Boss Health: 424
+Boss Health: 422
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+Boss Health: 420
+Boss Health: 418
+Boss Health: 416
+Boss Health: 414
+Boss Health: 412
+Boss Health: 410
+Boss Health: 408
+Boss Health: 406
+Boss Health: 404
+Boss Health: 402
+Boss Health: 400
+Boss Health: 398
+Boss Health: 396
+Boss Health: 394
+Boss Health: 392
+Boss Health: 390
+Gravity Bomb ended.
+Firing: 29/30 : 340
+Boss Health: 388
+Boss Health: 386
+Boss Health: 384
+Boss Health: 382
+Boss Health: 380
+Boss Health: 378
+Boss Health: 376
+Boss Health: 374
+Boss Health: 372
+Boss Health: 370
+Boss Health: 368
+Boss Health: 366
+Boss Health: 364
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+Boss Health: 362
+Boss Health: 360
+Boss Health: 358
+Radius0.2
+Boss Health: 356
+Boss Health: 354
+Boss Health: 352
+Boss Health: 350
+Boss Health: 348
+Boss Health: 346
+Boss Health: 344
+Boss Health: 342
+Boss Health: 340
+Boss Health: 338
+Boss Health: 336
+Dropping item #1 RandomNum=0.8282855 1.656571 drops#2
+Firing: 29/30 : 310
+Boss Health: 334
+Boss Health: 332
+Boss Health: 330
+Boss Health: 328
+Boss Health: 326
+Boss Health: 324
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+Boss Health: 322
+Boss Health: 320
+Boss Health: 318
+Boss Health: 316
+Boss Health: 314
+Boss Health: 312
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+Boss Health: 310
+Boss Health: 308
+Boss Health: 306
+Boss Health: 304
+Boss Health: 302
+Boss Health: 300
+Boss Health: 298
+Boss Health: 296
+Boss Health: 294
+Boss Health: 292
+5 dmg taken. Started at 100 and now at 50 Percent rem:0.5
+Boss Health: 290
+Boss Health: 288
+Boss Health: 286
+Boss Health: 284
+Boss Health: 282
+Boss Health: 280
+5 dmg taken. Started at 100 and now at 45 Percent rem:0.45
+5 dmg taken. Started at 100 and now at 40 Percent rem:0.4
+5 dmg taken. Started at 100 and now at 35 Percent rem:0.35
+Firing: 29/30 : 282
+Boss Health: 278
+Boss Health: 276
+Boss Health: 274
+Boss Health: 272
+Boss Health: 270
+Boss Health: 268
+Boss Health: 266
+Boss Health: 264
+Boss Health: 262
+Boss Health: 260
+Boss Health: 258
+Boss Health: 256
+Boss Health: 254
+Boss Health: 252
+Boss Health: 250
+Boss Health: 248
+Boss Health: 246
+Boss Health: 244
+Boss Health: 242
+Boss Health: 240
+Boss Health: 238
+Boss Health: 236
+Boss Health: 234
+Boss Health: 232
+Boss Health: 230
+Boss Health: 228
+Boss Health: 226
+Boss Health: 224
+Boss Health: 222
+Boss Health: 220
+Radius0.2
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+Firing: 29/30 : 252
+Boss Health: 218
+Boss Health: 216
+Boss Health: 214
+Boss Health: 212
+Boss Health: 210
+Boss Health: 208
+Boss Health: 206
+Boss Health: 204
+Boss Health: 202
+Boss Health: 200
+Boss Health: 198
+Boss Health: 196
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+Boss Health: 194
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+Boss Health: 192
+Boss Health: 190
+Boss Health: 188
+Boss Health: 186
+Boss Health: 184
+Boss Health: 182
+Boss Health: 180
+Boss Health: 178
+Boss Health: 176
+Boss Health: 174
+Boss Health: 172
+Boss Health: 170
+Boss Health: 168
+Boss Health: 166
+Boss Health: 164
+Boss Health: 162
+Boss Health: 160
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+Distance: 11.54036
+Pulling object
+Distance: 11.45661
+Pulling object
+Distance: 11.3216
+Pulling object
+Distance: 11.14663
+Pulling object
+Distance: 10.94169
+Pulling object
+Distance: 10.71553
+Pulling object
+Distance: 10.47569
+Pulling object
+Distance: 10.24545
+Pulling object
+Distance: 10.02614
+Pulling object
+Distance: 9.818645
+Pulling object
+Distance: 9.623521
+Pulling object
+Distance: 9.44102
+Pulling object
+Distance: 9.271149
+Pulling object
+Distance: 9.113732
+Pulling object
+Distance: 8.968435
+Pulling object
+Distance: 8.834823
+Pulling object
+Distance: 8.712354
+Pulling object
+Distance: 8.600465
+Pulling object
+Distance: 8.498536
+Pulling object
+Distance: 8.405942
+Pulling object
+Distance: 8.322049
+Pulling object
+Distance: 8.246241
+Pulling object
+Distance: 8.177901
+Pulling object
+Distance: 8.116453
+Pulling object
+Distance: 8.061326
+Pulling object
+Distance: 8.011998
+Pulling object
+Distance: 7.967968
+Pulling object
+Distance: 7.928765
+Pulling object
+Distance: 7.893959
+Pulling object
+Distance: 7.863137
+Pulling object
+Distance: 7.835916
+Pulling object
+Distance: 7.811961
+Pulling object
+Distance: 7.790938
+Pulling object
+Distance: 7.772569
+Pulling object
+Distance: 7.756571
+Pulling object
+Distance: 7.742708
+Pulling object
+Distance: 7.730749
+Pulling object
+Distance: 7.720488
+Pulling object
+Distance: 7.711738
+Pulling object
+Distance: 7.704348
+Pulling object
+Distance: 7.698139
+Pulling object
+Distance: 7.692986
+Pulling object
+Distance: 7.688764
+Pulling object
+Distance: 7.685349
+Pulling object
+Distance: 7.68265
+Pulling object
+Distance: 7.680575
+Pulling object
+Distance: 7.679035
+Pulling object
+Distance: 7.677961
+Pulling object
+Distance: 7.677286
+Pulling object
+Distance: 7.666713
+Pulling object
+Distance: 7.648318
+Pulling object
+Distance: 7.624022
+Pulling object
+Distance: 7.595526
+Pulling object
+Distance: 7.56431
+Pulling object
+Distance: 7.531654
+Pulling object
+Distance: 7.49862
+Pulling object
+Distance: 7.466084
+Pulling object
+Distance: 7.434755
+Pulling object
+Distance: 7.405168
+Pulling object
+Distance: 7.377743
+Pulling object
+Distance: 7.352779
+Pulling object
+Distance: 7.330463
+Pulling object
+Distance: 7.291433
+Pulling object
+Distance: 7.239928
+Pulling object
+Distance: 7.179608
+Pulling object
+Distance: 7.113628
+Pulling object
+Distance: 7.044625
+Pulling object
+Distance: 6.974842
+Pulling object
+Distance: 6.906092
+Pulling object
+Distance: 6.83987
+Pulling object
+Distance: 6.777323
+Pulling object
+Distance: 6.697278
+Pulling object
+Distance: 6.604522
+Pulling object
+Distance: 6.486625
+Pulling object
+Distance: 6.349105
+Pulling object
+Distance: 6.19696
+Pulling object
+Distance: 6.034647
+Pulling object
+Distance: 5.866096
+Pulling object
+Distance: 5.694752
+Pulling object
+Distance: 5.523567
+Pulling object
+Distance: 5.355109
+Pulling object
+Distance: 5.191539
+Pulling object
+Distance: 5.034702
+Pulling object
+Distance: 4.886159
+Pulling object
+Distance: 4.747189
+Pulling object
+Distance: 4.618856
+Pulling object
+Distance: 4.502024
+Pulling object
+Distance: 4.397357
+Pulling object
+Distance: 4.305356
+Pulling object
+Distance: 4.226354
+Pulling object
+Distance: 4.16054
+Pulling object
+Distance: 4.107943
+Pulling object
+Distance: 4.06846
+Pulling object
+Gravity Bomb ended.
+5 dmg taken. Started at 100 and now at 50 Percent rem:0.5
+Radius0.2
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+Firing: 29/30 : 222
+Boss Health: 158
+Boss Health: 156
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+Boss Health: 154
+Boss Health: 152
+Boss Health: 150
+Boss Health: 148
+Boss Health: 146
+Boss Health: 144
+Boss Health: 142
+Boss Health: 140
+Boss Health: 138
+Boss Health: 136
+Boss Health: 134
+Boss Health: 132
+Boss Health: 130
+Boss Health: 128
+Boss Health: 126
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+Boss Health: 124
+Boss Health: 122
+Boss Health: 120
+Boss Health: 118
+Boss Health: 116
+Boss Health: 114
+Boss Health: 112
+Boss Health: 110
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+Boss Health: 108
+Boss Health: 106
+Boss Health: 104
+Boss Health: 102
+Boss Health: 100
+Firing: 29/30 : 192
+Boss Health: 98
+Boss Health: 96
+Boss Health: 94
+Boss Health: 92
+Boss Health: 90
+Boss Health: 88
+Boss Health: 86
+Boss Health: 84
+Boss Health: 82
+Boss Health: 80
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+Boss Health: 78
+Boss Health: 76
+Boss Health: 74
+Boss Health: 72
+Boss Health: 70
+Boss Health: 68
+Boss Health: 66
+Boss Health: 64
+Boss Health: 62
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+Boss Health: 60
+Boss Health: 58
+Boss Health: 56
+Boss Health: 54
+Boss Health: 52
+Boss Health: 50
+Boss Health: 48
+Boss Health: 46
+Boss Health: 44
+Boss Health: 42
+Boss Health: 40
+Gravity Bomb ended.
+Firing: 29/30 : 162
+Boss Health: 38
+Boss Health: 36
+Boss Health: 34
+Boss Health: 32
+Boss Health: 30
+Boss Health: 28
+Boss Health: 26
+Boss Health: 24
+Boss Health: 22
+Boss Health: 20
+Boss Health: 18
+Boss Health: 16
+Boss Health: 14
+Boss Health: 12
+Boss Health: 10
+Boss Health: 8
+Boss Health: 6
+Boss Health: 4
+Radius0.2
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+Distance: 11.34383
+Pulling object
+Distance: 11.11117
+Pulling object
+Distance: 10.82135
+Pulling object
+Distance: 10.53279
+Pulling object
+Distance: 10.24988
+Pulling object
+Distance: 9.976048
+Pulling object
+Distance: 9.713941
+Pulling object
+Distance: 9.465487
+Pulling object
+Distance: 9.232015
+Pulling object
+Distance: 9.014341
+Pulling object
+Distance: 8.812854
+Pulling object
+Distance: 8.627608
+Pulling object
+Distance: 8.45837
+Pulling object
+Distance: 8.304695
+Pulling object
+Distance: 8.165981
+Pulling object
+Distance: 8.041514
+Pulling object
+Distance: 7.930485
+Pulling object
+Distance: 7.832042
+Pulling object
+Distance: 7.745312
+Pulling object
+Distance: 7.669417
+Pulling object
+Distance: 7.60349
+Pulling object
+Firing: 29/30 : 136
+Distance: 7.546693
+Pulling object
+Distance: 7.498219
+Pulling object
+Distance: 7.457292
+Pulling object
+Distance: 7.423191
+Pulling object
+Distance: 7.395227
+Pulling object
+Boss Health: 2
+Distance: 7.372775
+Pulling object
+Distance: 7.355234
+Pulling object
+Distance: 7.342062
+Pulling object
+Distance: 7.332762
+Pulling object
+Boss Health: 0
+Distance: 7.326871
+Pulling object
+Distance: 7.323976
+Pulling object
+Distance: 7.323679
+Pulling object
+Distance: 7.32565
+Pulling object
+Distance: 7.329566
+Pulling object
+Distance: 7.335143
+Pulling object
+Distance: 7.342123
+Pulling object
+Distance: 7.350285
+Pulling object
+Distance: 7.359412
+Pulling object
+Distance: 7.369329
+Pulling object
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+Distance: 7.342982
+Pulling object
+Distance: 7.287565
+Pulling object
+Distance: 7.191455
+Pulling object
+Distance: 7.062943
+Pulling object
+Distance: 6.909363
+Pulling object
+Distance: 6.737143
+Pulling object
+Distance: 6.55187
+Pulling object
+Distance: 6.358356
+Pulling object
+Distance: 6.160728
+Pulling object
+Distance: 5.962498
+Pulling object
+Distance: 5.766633
+Pulling object
+Distance: 5.575619
+Pulling object
+Distance: 5.391533
+Pulling object
+Distance: 5.216098
+Pulling object
+Distance: 5.050725
+Pulling object
+Distance: 4.896562
+Pulling object
+Distance: 4.754528
+Pulling object
+Distance: 4.625334
+Pulling object
+Distance: 4.509521
+Pulling object
+Distance: 4.407453
+Pulling object
+Distance: 4.319349
+Pulling object
+Distance: 4.245288
+Pulling object
+Distance: 4.185209
+Pulling object
+Distance: 4.138916
+Pulling object
+Distance: 4.1061
+Pulling object
+Distance: 4.09936
+Pulling object
+Distance: 4.117809
+Pulling object
+Distance: 4.154597
+Pulling object
+Distance: 4.195936
+Pulling object
+Distance: 4.238714
+Pulling object
+Distance: 4.281661
+Pulling object
+Distance: 4.324556
+Pulling object
+Distance: 4.367757
+Pulling object
+Distance: 4.411848
+Pulling object
+Distance: 4.457497
+Pulling object
+Distance: 4.505317
+Pulling object
+Distance: 4.555812
+Pulling object
+Distance: 4.609352
+Pulling object
+Distance: 4.666174
+Pulling object
+Distance: 4.726397
+Pulling object
+Dropping item #0 RandomNum=0.1389369 0.2778738 drops#2
+Distance: 4.789992
+Pulling object
+Distance: 4.856853
+Pulling object
+Distance: 4.926801
+Pulling object
+Distance: 4.999563
+Pulling object
+Distance: 5.07485
+Pulling object
+Distance: 5.152328
+Pulling object
+Distance: 5.231645
+Pulling object
+Distance: 5.312442
+Pulling object
+Distance: 5.394349
+Pulling object
+Distance: 5.477024
+Pulling object
+Distance: 5.560115
+Pulling object
+Distance: 5.643295
+Pulling object
+Distance: 5.726257
+Pulling object
+Distance: 5.80871
+Pulling object
+Distance: 5.89039
+Pulling object
+Distance: 5.971045
+Pulling object
+Distance: 6.050462
+Pulling object
+Distance: 6.128442
+Pulling object
+Distance: 6.204789
+Pulling object
+Distance: 6.279364
+Pulling object
+Distance: 6.35203
+Pulling object
+Distance: 6.422672
+Pulling object
+Distance: 6.49119
+Pulling object
+Distance: 6.557506
+Pulling object
+Distance: 6.621558
+Pulling object
+Distance: 6.683291
+Pulling object
+Distance: 6.742686
+Pulling object
+Distance: 6.799722
+Pulling object
+Distance: 6.854389
+Pulling object
+Distance: 6.906692
+Pulling object
+Distance: 6.95665
+Pulling object
+Distance: 7.004295
+Pulling object
+Distance: 7.049649
+Pulling object
+Distance: 7.09276
+Pulling object
+Distance: 7.133672
+Pulling object
+Distance: 7.172441
+Pulling object
+Distance: 7.209124
+Pulling object
+Distance: 7.243789
+Pulling object
+Distance: 7.276493
+Pulling object
+Distance: 7.307304
+Pulling object
+Distance: 7.336286
+Pulling object
+Distance: 7.363523
+Pulling object
+Distance: 7.389085
+Pulling object
+Distance: 7.41304
+Pulling object
+Distance: 7.435457
+Pulling object
+Distance: 7.456417
+Pulling object
+Distance: 7.475985
+Pulling object
+Distance: 7.494233
+Pulling object
+Distance: 7.511236
+Pulling object
+Distance: 7.527052
+Pulling object
+Distance: 7.541753
+Pulling object
+Distance: 7.544719
+Pulling object
+Distance: 7.538254
+Pulling object
+Distance: 7.524463
+Pulling object
+Distance: 7.485422
+Pulling object
+Distance: 7.425579
+Pulling object
+Distance: 7.348922
+Pulling object
+Distance: 7.258963
+Pulling object
+Distance: 7.158783
+Pulling object
+Distance: 7.051037
+Pulling object
+Distance: 6.93801
+Pulling object
+Distance: 6.821626
+Pulling object
+Distance: 6.703511
+Pulling object
+Distance: 6.584993
+Pulling object
+Distance: 6.467191
+Pulling object
+Distance: 6.350971
+Pulling object
+Distance: 6.237048
+Pulling object
+Distance: 6.125948
+Pulling object
+Distance: 6.018078
+Pulling object
+Distance: 5.913731
+Pulling object
+Distance: 5.8131
+Pulling object
+Distance: 5.716303
+Pulling object
+Distance: 5.623391
+Pulling object
+Distance: 5.534363
+Pulling object
+Distance: 5.449186
+Pulling object
+Distance: 5.367776
+Pulling object
+Distance: 5.290027
+Pulling object
+Distance: 5.215841
+Pulling object
+Distance: 5.145076
+Pulling object
+Distance: 5.077597
+Pulling object
+Distance: 5.013267
+Pulling object
+Distance: 4.951933
+Pulling object
+Distance: 4.893457
+Pulling object
+Distance: 4.837697
+Pulling object
+Distance: 4.784511
+Pulling object
+Distance: 4.733764
+Pulling object
+Distance: 4.685329
+Pulling object
+Distance: 4.639082
+Pulling object
+Distance: 4.594898
+Pulling object
+Distance: 4.552668
+Pulling object
+Distance: 4.512287
+Pulling object
+Distance: 4.47365
+Pulling object
+Distance: 4.436667
+Pulling object
+Distance: 4.401247
+Pulling object
+Distance: 4.367299
+Pulling object
+Distance: 4.334755
+Pulling object
+Distance: 4.303536
+Pulling object
+Distance: 4.273566
+Pulling object
+Distance: 4.244787
+Pulling object
+Distance: 4.217133
+Pulling object
+Distance: 4.190551
+Pulling object
+Distance: 4.16498
+Pulling object
+Distance: 4.140377
+Pulling object
+Distance: 4.116691
+Pulling object
+Distance: 4.093881
+Pulling object
+Distance: 4.071903
+Pulling object
+Distance: 4.050718
+Pulling object
+Distance: 4.030287
+Pulling object
+Distance: 4.010575
+Pulling object
+Distance: 3.991551
+Pulling object
+Distance: 3.973186
+Pulling object
+Distance: 3.95545
+Pulling object
+Distance: 3.938315
+Pulling object
+Distance: 3.921755
+Pulling object
+Distance: 3.905748
+Pulling object
+Distance: 3.890267
+Pulling object
+Distance: 3.875294
+Pulling object
+Distance: 3.860806
+Pulling object
+Distance: 3.846788
+Pulling object
+Distance: 3.833215
+Pulling object
+Distance: 3.820074
+Pulling object
+Distance: 3.807342
+Pulling object
+Distance: 3.795009
+Pulling object
+Distance: 3.783058
+Pulling object
+Distance: 3.771479
+Pulling object
+Distance: 3.760253
+Pulling object
+Distance: 3.749368
+Pulling object
+Distance: 3.738811
+Pulling object
+Distance: 3.728573
+Pulling object
+Distance: 3.71864
+Pulling object
+Distance: 3.709004
+Pulling object
+Distance: 3.699653
+Pulling object
+Distance: 3.690575
+Pulling object
+Distance: 3.681762
+Pulling object
+Distance: 3.673206
+Pulling object
+Distance: 3.664902
+Pulling object
+Distance: 3.656834
+Pulling object
+Distance: 3.648998
+Pulling object
+Distance: 3.641386
+Pulling object
+Distance: 3.633989
+Pulling object
+Distance: 3.626802
+Pulling object
+Distance: 3.619818
+Pulling object
+Distance: 3.613031
+Pulling object
+Distance: 3.606434
+Pulling object
+Distance: 3.600021
+Pulling object
+Distance: 3.593787
+Pulling object
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.611300 ms
+
+Unloading 428 unused Assets to reduce memory usage. Loaded Objects now: 3357.
+Total: 7.787900 ms (FindLiveObjects: 0.244500 ms CreateObjectMapping: 0.163100 ms MarkObjects: 0.498700 ms  DeleteObjects: 6.879700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.246100 ms
+
+Unloading 293 unused Assets to reduce memory usage. Loaded Objects now: 2131.
+Total: 3.515500 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.136100 ms MarkObjects: 0.530700 ms  DeleteObjects: 2.674800 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.090700 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 10279.
+Total: 2.977200 ms (FindLiveObjects: 0.543100 ms CreateObjectMapping: 0.175900 ms MarkObjects: 1.336700 ms  DeleteObjects: 0.920200 ms)
+
+Name: Default  Class: Default Level: 1 Health: 100 Melee: True Speed: 100  Exp: 0
+has been created
+Radius7
+Enemy Sight is null
+5 dmg taken. Started at 100 and now at 95 Percent rem:0.95
+5 dmg taken. Started at 100 and now at 90 Percent rem:0.9
+5 dmg taken. Started at 100 and now at 85 Percent rem:0.85
+5 dmg taken. Started at 100 and now at 80 Percent rem:0.8
+5 dmg taken. Started at 100 and now at 75 Percent rem:0.75
+5 dmg taken. Started at 100 and now at 70 Percent rem:0.7
+5 dmg taken. Started at 100 and now at 65 Percent rem:0.65
+5 dmg taken. Started at 100 and now at 60 Percent rem:0.6
+5 dmg taken. Started at 100 and now at 55 Percent rem:0.55
+5 dmg taken. Started at 100 and now at 50 Percent rem:0.5
+5 dmg taken. Started at 100 and now at 45 Percent rem:0.45
+5 dmg taken. Started at 100 and now at 40 Percent rem:0.4
+5 dmg taken. Started at 100 and now at 35 Percent rem:0.35
+5 dmg taken. Started at 100 and now at 30 Percent rem:0.3
+5 dmg taken. Started at 100 and now at 25 Percent rem:0.25
+5 dmg taken. Started at 100 and now at 20 Percent rem:0.2
+5 dmg taken. Started at 100 and now at 15 Percent rem:0.15
+5 dmg taken. Started at 100 and now at 10 Percent rem:0.1
+5 dmg taken. Started at 100 and now at 5 Percent rem:0.05
+5 dmg taken. Started at 100 and now at 0 Percent rem:0
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.803400 ms
+
+Unloading 379 unused Assets to reduce memory usage. Loaded Objects now: 3615.
+Total: 7.526900 ms (FindLiveObjects: 0.506300 ms CreateObjectMapping: 0.275500 ms MarkObjects: 0.695400 ms  DeleteObjects: 6.048900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.344900 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 2131.
+Total: 5.793800 ms (FindLiveObjects: 0.187700 ms CreateObjectMapping: 0.155700 ms MarkObjects: 0.578200 ms  DeleteObjects: 4.870500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.033000 ms
+
+Unloading 493 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 2.287500 ms (FindLiveObjects: 0.046100 ms CreateObjectMapping: 0.045700 ms MarkObjects: 0.197100 ms  DeleteObjects: 1.997700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.472600 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2131.
+Total: 1.620500 ms (FindLiveObjects: 0.223100 ms CreateObjectMapping: 0.108800 ms MarkObjects: 0.517000 ms  DeleteObjects: 0.770400 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.379600 ms
+
+Unloading 493 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 3.435900 ms (FindLiveObjects: 0.058900 ms CreateObjectMapping: 0.075600 ms MarkObjects: 0.290500 ms  DeleteObjects: 3.009700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.348700 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2131.
+Total: 1.371200 ms (FindLiveObjects: 0.175100 ms CreateObjectMapping: 0.142700 ms MarkObjects: 0.480000 ms  DeleteObjects: 0.572200 ms)
+

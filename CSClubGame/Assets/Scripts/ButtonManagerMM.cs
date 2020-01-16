@@ -9,7 +9,13 @@ public class ButtonManagerMM : MonoBehaviour {
 
 	}
 
-	public void exitDemo_Button (){
+    public void Menu_Button(string level)
+    {
+        SceneManager.LoadScene(level);
+
+    }
+
+    public void exitDemo_Button (){
 		Application.Quit ();
 	}
 }
