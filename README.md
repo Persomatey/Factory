@@ -1,37 +1,38 @@
-# canyonsCSclub
+# Factory
 
-Canyons CS Club Program
+*College of the Canyon's Computer Science Club's Fall 2016 project (expanded upon by Hunter Goodin)* 
 
-Hello 2017 Club Members!
+https://coc-computerscienceclub.itch.io/factory
 
-This is the depot we will be using to upload, merge, branch and distribute our code.  
+<img src="https://huntergoodin.com/images/devphotos/FactoryLogo.png" width="347" height="278" />
 
-To run this go to CSClubGame\Assets\\_Scenes and run Tbui_TestLevel.unity.  Feel add your own Scenes!
+<details>
+<summary>Specs</summary>
+<blockquote>
 
-Guide to how to use GitHub is here: https://guides.github.com/
+Unity 5.6.0f3
+https://download.unity3d.com/download_unity/497a0f351392/Windows64EditorInstaller/UnitySetup64-5.6.0f3.exe
 
-Tools needed.
+SLN solution in Visual Studio Community 2019 Preview 
+https://visualstudio.microsoft.com/vs/community/
 
-Visual Studio   - https://beta.visualstudio.com/downloads/ Or use MonoDevelop.
-    
-    MonoDevelop is good from those who use Apple, because it comes with Unity (below)
+</blockquote>
+</details>
 
-Unity           - https://unity3d.com/unity 
+<details>
+<summary>Change List</summary>
+<blockquote>
 
+<details>
+<summary>CL-000000 (The First Update)</summary>
+<blockquote>
 
-Other Tools.
+- Made the following changes: 
+	- Added project as it was in the old repository
+	- Edited the README to reflect the above changes 
 
-GitHub Desktop  - https://github.com/integrations/github-desktop (Easier way to Download/Upload from GitHub)
+</blockquote>
+</details>
 
-1) Download:  https://desktop.github.com/ <p>
-2) Do the Tutorial. Delete Tutorial.<p>
-3) Go to: https://github.com/RealDealLea1/canyonsCSclub<p>
-4) Click on the Green "Clone or download" button, then select Open in Desktop<p>
-5) Click on the branch, and make a branch with your name.<p>
-6) Click on Publish button in the upper right to commit your branch.<p>
-7) Do all the edits to the project using this folder, and make a Pull Request when you want to share your work!<p>
-
-Paint.net       - http://www.getpaint.net/index.html (If you don't have Adobe)
-
-
-If you have any questions be sure to ask me at chris.leal@outlook.com
+</blockquote>
+</details>
